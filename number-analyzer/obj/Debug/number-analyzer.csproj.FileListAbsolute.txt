@@ -1,0 +1,7 @@
+C:\Users\Kendall\bootcamp_c_sharp\weekOneExcercises\number-analyzer\number-analyzer\bin\Debug\number-analyzer.exe.config
+C:\Users\Kendall\bootcamp_c_sharp\weekOneExcercises\number-analyzer\number-analyzer\bin\Debug\number-analyzer.exe
+C:\Users\Kendall\bootcamp_c_sharp\weekOneExcercises\number-analyzer\number-analyzer\bin\Debug\number-analyzer.pdb
+C:\Users\Kendall\bootcamp_c_sharp\weekOneExcercises\number-analyzer\number-analyzer\obj\Debug\number-analyzer.csproj.AssemblyReference.cache
+C:\Users\Kendall\bootcamp_c_sharp\weekOneExcercises\number-analyzer\number-analyzer\obj\Debug\number-analyzer.csproj.CoreCompileInputs.cache
+C:\Users\Kendall\bootcamp_c_sharp\weekOneExcercises\number-analyzer\number-analyzer\obj\Debug\number-analyzer.exe
+C:\Users\Kendall\bootcamp_c_sharp\weekOneExcercises\number-analyzer\number-analyzer\obj\Debug\number-analyzer.pdb
